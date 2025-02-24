@@ -29,10 +29,25 @@ Additional details and guidelines will be provided on the day of the Hackathon.
 
 For this challenge, you'll build a mobile app that integrates RSS feeds, implements role-based access, and features a robust notification system. You may choose the technology stack that best fits your team’s expertise. Consider the following resources for guidance:
 
-- **React Native:** [Getting Started](https://reactnative.dev/docs/getting-started)
-- **Ionic:** [Documentation](https://ionicframework.com/docs/)
-- **Swift:** [Apple Swift Documentation](https://developer.apple.com/documentation/swift/)
-- **Android:** [Getting Started Overview](https://developer.android.com/get-started/overview)
+- [**React Native**](https://reactnative.dev/docs/getting-started)
+- [**Ionic**](https://ionicframework.com/docs/)
+- [**Swift**](https://developer.apple.com/documentation/swift/)
+- [**Android**](https://developer.android.com/get-started/overview)
 
 Proper documentation is key. Ensure that your submission includes detailed documentation covering your code structure, API integrations, and overall design to facilitate clarity and maintainability.
+
+## How to Submit
+
+- **Fork the Repository:**  
+  Fork this repository while keeping the existing `README.md` file intact for your team's documentation.
+
+- **Develop Your Project:**  
+  Build your mobile app, ensuring that it meets all challenge requirements and is thoroughly documented.
+
+- **Submit Your Code:**  
+  Once your project is complete, submit your final code by providing a link to your forked repository.
+
+- **Presentation/Demo:**  
+  At the end of the Hackathon, be prepared to present or demo your app, highlighting its functionality and key features.
+
 
