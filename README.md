@@ -4,9 +4,9 @@
 
 ## Hackathon Format
 
-Date: **TBD**
+Date: Thursday, April 10th
 
-Time: **TBD**
+Time: 4:00pm - 9:00pm CST
 
 ## Challenge Overview
 
@@ -49,5 +49,39 @@ Proper documentation is key. Ensure that your submission includes detailed docum
 
 - **Presentation/Demo:**  
   At the end of the Hackathon, be prepared to present or demo your app, highlighting its functionality and key features.
+
+
+## Examples:
+
+#### RSS Feed APIs Examples:
+
+1. **RSS2JSON API**  
+   - **Description:** Converts RSS feeds into JSON format for easier parsing and integration into your app.  
+   - **Link:** [rss2json.com](https://rss2json.com/)  
+
+2. **Superfeedr**  
+   - **Description:** A real-time feed API that processes, normalizes, and pushes updates from RSS/Atom feeds.  
+   - **Link:** [superfeedr.com](https://superfeedr.com/)  
+
+3. **RSSBridge**  
+   - **Description:** An open-source PHP project that acts as an API to generate RSS feeds for websites lacking native RSS support.  
+   - **Link:** [GitHub - RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)  
+
+4. **NewsCatcher API**  
+   - **Description:** Primarily designed for news aggregation, this API provides access to numerous news sources via endpoints similar to RSS feeds.  
+   - **Link:** [newscatcherapi.com](https://newscatcherapi.com/)  
+
+5. **Feedity API**  
+   - **Description:** Generates RSS feeds from any web page that does not natively offer one, making it a useful tool for content aggregation.  
+   - **Link:** [feedity.com](https://feedity.com/)  
+
+6. **RapidAPI RSS Parser Options**  
+   - **Description:** A collection of RSS parsing APIs available on the RapidAPI marketplace that can convert RSS feeds to JSON and provide enhanced parsing capabilities.  
+   - **Link:** [RapidAPI](https://rapidapi.com/search/rss%20parser)  
+
+#### Similar Apps Examples:
+
+- [**Feedly**](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)
+- [**Inoreader**](https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=en_US&pli=1)
 
 
